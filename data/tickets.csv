@@ -1,0 +1,6 @@
+account_id,ticket_id,category,age_days,csat
+1001,AC-100,billing,12,4.6
+1001,AC-101,performance,5,4.1
+1002,GB-201,integration,35,4.8
+1002,GB-202,permissions,2,4.2
+1002,GB-203,performance,14,3.9
