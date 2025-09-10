@@ -7,5 +7,5 @@ numpy
 streamlit
 duckduckgo-search>=6.2.6
 tavily-python>=0.5.0
+gradio_client>=0.16.0
 huggingface_hub>=0.23.0
-llama-cpp-python[server]>=0.2.86
